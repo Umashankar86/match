@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+model/*.pt
+outputs/
+uploads/
+.streamlit/secrets.toml
