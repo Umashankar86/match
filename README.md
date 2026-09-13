@@ -7,6 +7,12 @@ jobs, dataset downloads, or automatic model downloads**.
 Your three supplied weights are now connected under their original filenames.
 The matching `model/pitch_points.json` is included. No renaming is necessary.
 
+## Colab notebook
+
+Your [Untitled88 notebook](notebooks/Untitled88.ipynb) is included with its original
+cell sources. Saved outputs and execution metadata are cleared. It reads Roboflow
+credentials from Colab Secrets; configure those in Colab before running it.
+
 ## Start on Windows
 
 ```powershell
